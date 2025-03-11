@@ -1,0 +1,11 @@
+PYTHON LIBRARIES
+numpy
+opencv-python
+opencv-contrib-python
+
+Hardware Requirements
+
+Webcam – Built-in or external camera for live face detection
+System Specs (Recommended)
+RAM: 4GB or higher
+Processor: Intel i3 or better
